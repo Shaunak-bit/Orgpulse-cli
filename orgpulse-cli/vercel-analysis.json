@@ -1,0 +1,38 @@
+{
+  "org": "vercel",
+  "summary": {
+    "totalRepos": 100,
+    "totalStars": 386056,
+    "totalForks": 57727,
+    "avgStars": 3861,
+    "avgForks": 577
+  },
+  "languageBreakdown": {
+    "TypeScript": 36,
+    "JavaScript": 41,
+    "Unknown": 9,
+    "Shell": 2,
+    "C": 2,
+    "Lua": 3,
+    "HCL": 1,
+    "CSS": 1,
+    "Ruby": 1,
+    "MDX": 1,
+    "Go": 2,
+    "Rust": 1
+  },
+  "topRepos": {
+    "byStars": {
+      "name": "next.js",
+      "stars": 133827,
+      "forks": 29103,
+      "language": "JavaScript"
+    },
+    "byForks": {
+      "name": "next.js",
+      "stars": 133827,
+      "forks": 29103,
+      "language": "JavaScript"
+    }
+  }
+}

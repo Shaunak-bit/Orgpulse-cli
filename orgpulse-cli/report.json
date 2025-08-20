@@ -1,0 +1,602 @@
+[
+  {
+    "name": "ms",
+    "stars": 5334,
+    "forks": 281,
+    "language": "TypeScript"
+  },
+  {
+    "name": "micro",
+    "stars": 10612,
+    "forks": 454,
+    "language": "TypeScript"
+  },
+  {
+    "name": "test-listen",
+    "stars": 156,
+    "forks": 19,
+    "language": "JavaScript"
+  },
+  {
+    "name": "async-retry",
+    "stars": 1887,
+    "forks": 57,
+    "language": "JavaScript"
+  },
+  {
+    "name": "uid-promise",
+    "stars": 256,
+    "forks": 13,
+    "language": "TypeScript"
+  },
+  {
+    "name": "react-keyframes",
+    "stars": 622,
+    "forks": 29,
+    "language": "TypeScript"
+  },
+  {
+    "name": "serve",
+    "stars": 9692,
+    "forks": 695,
+    "language": "TypeScript"
+  },
+  {
+    "name": "email-prompt",
+    "stars": 276,
+    "forks": 26,
+    "language": "JavaScript"
+  },
+  {
+    "name": "hyper",
+    "stars": 44182,
+    "forks": 3538,
+    "language": "TypeScript"
+  },
+  {
+    "name": "hyperpower",
+    "stars": 634,
+    "forks": 127,
+    "language": "JavaScript"
+  },
+  {
+    "name": "hyperyellow",
+    "stars": 93,
+    "forks": 43,
+    "language": "JavaScript"
+  },
+  {
+    "name": "pkg",
+    "stars": 24403,
+    "forks": 1048,
+    "language": "JavaScript"
+  },
+  {
+    "name": "pkg-fetch",
+    "stars": 454,
+    "forks": 213,
+    "language": "TypeScript"
+  },
+  {
+    "name": "vercel",
+    "stars": 13954,
+    "forks": 2783,
+    "language": "TypeScript"
+  },
+  {
+    "name": "next.js",
+    "stars": 133827,
+    "forks": 29103,
+    "language": "JavaScript"
+  },
+  {
+    "name": "styled-jsx",
+    "stars": 7778,
+    "forks": 265,
+    "language": "JavaScript"
+  },
+  {
+    "name": "release",
+    "stars": 3581,
+    "forks": 115,
+    "language": "JavaScript"
+  },
+  {
+    "name": "release-auth",
+    "stars": 24,
+    "forks": 8,
+    "language": "JavaScript"
+  },
+  {
+    "name": "avatar",
+    "stars": 1291,
+    "forks": 88,
+    "language": "TypeScript"
+  },
+  {
+    "name": "async-sema",
+    "stars": 645,
+    "forks": 31,
+    "language": "TypeScript"
+  },
+  {
+    "name": "zsh-theme",
+    "stars": 189,
+    "forks": 30,
+    "language": "Unknown"
+  },
+  {
+    "name": "micro-dev",
+    "stars": 708,
+    "forks": 77,
+    "language": "JavaScript"
+  },
+  {
+    "name": "err-sh",
+    "stars": 99,
+    "forks": 18,
+    "language": "JavaScript"
+  },
+  {
+    "name": "hazel",
+    "stars": 2939,
+    "forks": 398,
+    "language": "JavaScript"
+  },
+  {
+    "name": "arg",
+    "stars": 1286,
+    "forks": 55,
+    "language": "JavaScript"
+  },
+  {
+    "name": "hyper-site",
+    "stars": 456,
+    "forks": 199,
+    "language": "JavaScript"
+  },
+  {
+    "name": "fetch-retry",
+    "stars": 224,
+    "forks": 18,
+    "language": "JavaScript"
+  },
+  {
+    "name": "dns-cached-resolve",
+    "stars": 49,
+    "forks": 9,
+    "language": "TypeScript"
+  },
+  {
+    "name": "fetch-cached-dns",
+    "stars": 39,
+    "forks": 10,
+    "language": "JavaScript"
+  },
+  {
+    "name": "fetch",
+    "stars": 573,
+    "forks": 26,
+    "language": "JavaScript"
+  },
+  {
+    "name": "git-hooks",
+    "stars": 204,
+    "forks": 10,
+    "language": "JavaScript"
+  },
+  {
+    "name": "react-maskedinput",
+    "stars": 15,
+    "forks": 2,
+    "language": "JavaScript"
+  },
+  {
+    "name": "install-node",
+    "stars": 143,
+    "forks": 29,
+    "language": "Shell"
+  },
+  {
+    "name": "next-plugins",
+    "stars": 2672,
+    "forks": 321,
+    "language": "Unknown"
+  },
+  {
+    "name": "title",
+    "stars": 601,
+    "forks": 36,
+    "language": "JavaScript"
+  },
+  {
+    "name": "title-site",
+    "stars": 133,
+    "forks": 22,
+    "language": "JavaScript"
+  },
+  {
+    "name": "redis-semaphore",
+    "stars": 10,
+    "forks": 4,
+    "language": "JavaScript"
+  },
+  {
+    "name": "remark-capitalize",
+    "stars": 29,
+    "forks": 3,
+    "language": "JavaScript"
+  },
+  {
+    "name": "update-check",
+    "stars": 166,
+    "forks": 16,
+    "language": "JavaScript"
+  },
+  {
+    "name": "rcurl",
+    "stars": 26,
+    "forks": 4,
+    "language": "Shell"
+  },
+  {
+    "name": "wait-for",
+    "stars": 49,
+    "forks": 4,
+    "language": "C"
+  },
+  {
+    "name": "xopt",
+    "stars": 7,
+    "forks": 3,
+    "language": "C"
+  },
+  {
+    "name": "serve-handler",
+    "stars": 601,
+    "forks": 96,
+    "language": "JavaScript"
+  },
+  {
+    "name": "schemas",
+    "stars": 86,
+    "forks": 27,
+    "language": "JavaScript"
+  },
+  {
+    "name": "next-codemod",
+    "stars": 66,
+    "forks": 3,
+    "language": "JavaScript"
+  },
+  {
+    "name": "cosmosdb-server",
+    "stars": 178,
+    "forks": 30,
+    "language": "TypeScript"
+  },
+  {
+    "name": "cosmosdb-query",
+    "stars": 19,
+    "forks": 8,
+    "language": "TypeScript"
+  },
+  {
+    "name": "resolve-node",
+    "stars": 33,
+    "forks": 14,
+    "language": "JavaScript"
+  },
+  {
+    "name": "rollup-plugin-commonjs",
+    "stars": 7,
+    "forks": 4,
+    "language": "JavaScript"
+  },
+  {
+    "name": "ncc",
+    "stars": 9657,
+    "forks": 300,
+    "language": "JavaScript"
+  },
+  {
+    "name": "xterm.js",
+    "stars": 30,
+    "forks": 8,
+    "language": "TypeScript"
+  },
+  {
+    "name": "og-image",
+    "stars": 4053,
+    "forks": 1273,
+    "language": "TypeScript"
+  },
+  {
+    "name": "lua-aws",
+    "stars": 11,
+    "forks": 2,
+    "language": "Lua"
+  },
+  {
+    "name": "webpack-asset-relocator-loader",
+    "stars": 105,
+    "forks": 33,
+    "language": "JavaScript"
+  },
+  {
+    "name": "fun",
+    "stars": 911,
+    "forks": 39,
+    "language": "TypeScript"
+  },
+  {
+    "name": "async-listen",
+    "stars": 50,
+    "forks": 2,
+    "language": "TypeScript"
+  },
+  {
+    "name": "tracing-js",
+    "stars": 46,
+    "forks": 2,
+    "language": "TypeScript"
+  },
+  {
+    "name": "lua-resty-template",
+    "stars": 7,
+    "forks": 2,
+    "language": "Lua"
+  },
+  {
+    "name": "terraform-aws-eks",
+    "stars": 6,
+    "forks": 2,
+    "language": "HCL"
+  },
+  {
+    "name": "vrs",
+    "stars": 526,
+    "forks": 88,
+    "language": "TypeScript"
+  },
+  {
+    "name": "spr-landing",
+    "stars": 447,
+    "forks": 82,
+    "language": "CSS"
+  },
+  {
+    "name": "jsonpath",
+    "stars": 13,
+    "forks": 3,
+    "language": "JavaScript"
+  },
+  {
+    "name": "react-jsx-parser",
+    "stars": 17,
+    "forks": 3,
+    "language": "JavaScript"
+  },
+  {
+    "name": "actions",
+    "stars": 15,
+    "forks": 8,
+    "language": "Ruby"
+  },
+  {
+    "name": "nft",
+    "stars": 1481,
+    "forks": 157,
+    "language": "JavaScript"
+  },
+  {
+    "name": "static-fun",
+    "stars": 650,
+    "forks": 80,
+    "language": "TypeScript"
+  },
+  {
+    "name": "response",
+    "stars": 10,
+    "forks": 3,
+    "language": "JavaScript"
+  },
+  {
+    "name": "SyslogPro",
+    "stars": 13,
+    "forks": 4,
+    "language": "TypeScript"
+  },
+  {
+    "name": "swr-site",
+    "stars": 500,
+    "forks": 358,
+    "language": "MDX"
+  },
+  {
+    "name": "swr",
+    "stars": 31819,
+    "forks": 1277,
+    "language": "TypeScript"
+  },
+  {
+    "name": "amazon-kinesis-client-nodejs",
+    "stars": 7,
+    "forks": 2,
+    "language": "Unknown"
+  },
+  {
+    "name": "lua-bcrypt",
+    "stars": 6,
+    "forks": 2,
+    "language": "Unknown"
+  },
+  {
+    "name": "algolite",
+    "stars": 10,
+    "forks": 5,
+    "language": "JavaScript"
+  },
+  {
+    "name": "preview-mode-demo",
+    "stars": 121,
+    "forks": 28,
+    "language": "TypeScript"
+  },
+  {
+    "name": "next-learn",
+    "stars": 4475,
+    "forks": 2142,
+    "language": "TypeScript"
+  },
+  {
+    "name": "go-bridge",
+    "stars": 22,
+    "forks": 7,
+    "language": "Go"
+  },
+  {
+    "name": "nextgram",
+    "stars": 993,
+    "forks": 227,
+    "language": "TypeScript"
+  },
+  {
+    "name": "reactions",
+    "stars": 313,
+    "forks": 43,
+    "language": "JavaScript"
+  },
+  {
+    "name": "vscode-material-icon-theme",
+    "stars": 11,
+    "forks": 2,
+    "language": "Unknown"
+  },
+  {
+    "name": "busted",
+    "stars": 6,
+    "forks": 3,
+    "language": "Lua"
+  },
+  {
+    "name": "sqs-consumer",
+    "stars": 12,
+    "forks": 3,
+    "language": "TypeScript"
+  },
+  {
+    "name": "commerce",
+    "stars": 13364,
+    "forks": 4984,
+    "language": "TypeScript"
+  },
+  {
+    "name": "gatsby-plugin-vercel",
+    "stars": 22,
+    "forks": 3,
+    "language": "JavaScript"
+  },
+  {
+    "name": "commerce-framework",
+    "stars": 98,
+    "forks": 20,
+    "language": "TypeScript"
+  },
+  {
+    "name": "nextjs-subscription-payments",
+    "stars": 7534,
+    "forks": 1673,
+    "language": "TypeScript"
+  },
+  {
+    "name": "stripe-integration",
+    "stars": 30,
+    "forks": 11,
+    "language": "TypeScript"
+  },
+  {
+    "name": "json-schema-to-ts",
+    "stars": 13,
+    "forks": 3,
+    "language": "TypeScript"
+  },
+  {
+    "name": "sqsmv",
+    "stars": 13,
+    "forks": 2,
+    "language": "Go"
+  },
+  {
+    "name": "virtual-event-starter-kit",
+    "stars": 2169,
+    "forks": 439,
+    "language": "TypeScript"
+  },
+  {
+    "name": "cla",
+    "stars": 9,
+    "forks": 2,
+    "language": "Unknown"
+  },
+  {
+    "name": "clabot-config",
+    "stars": 6,
+    "forks": 2,
+    "language": "Unknown"
+  },
+  {
+    "name": "server-components-notes-demo",
+    "stars": 746,
+    "forks": 85,
+    "language": "TypeScript"
+  },
+  {
+    "name": "has-changed-path",
+    "stars": 11,
+    "forks": 2,
+    "language": "Unknown"
+  },
+  {
+    "name": "example-integration",
+    "stars": 49,
+    "forks": 24,
+    "language": "TypeScript"
+  },
+  {
+    "name": "nextjs-portfolio-starter",
+    "stars": 716,
+    "forks": 274,
+    "language": "JavaScript"
+  },
+  {
+    "name": "turborepo",
+    "stars": 28428,
+    "forks": 2067,
+    "language": "Rust"
+  },
+  {
+    "name": "next-react-server-components",
+    "stars": 992,
+    "forks": 162,
+    "language": "JavaScript"
+  },
+  {
+    "name": "nextjs-discord-bot",
+    "stars": 114,
+    "forks": 28,
+    "language": "TypeScript"
+  },
+  {
+    "name": "examples",
+    "stars": 3979,
+    "forks": 1338,
+    "language": "TypeScript"
+  },
+  {
+    "name": "community",
+    "stars": 112,
+    "forks": 6,
+    "language": "Unknown"
+  }
+]

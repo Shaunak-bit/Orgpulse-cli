@@ -1,0 +1,502 @@
+[
+  {
+    "name": "next.js",
+    "stars": 133828,
+    "forks": 29103
+  },
+  {
+    "name": "commerce",
+    "stars": 13364,
+    "forks": 4984
+  },
+  {
+    "name": "hyper",
+    "stars": 44182,
+    "forks": 3538
+  },
+  {
+    "name": "vercel",
+    "stars": 13954,
+    "forks": 2783
+  },
+  {
+    "name": "next-learn",
+    "stars": 4475,
+    "forks": 2142
+  },
+  {
+    "name": "turborepo",
+    "stars": 28428,
+    "forks": 2067
+  },
+  {
+    "name": "nextjs-subscription-payments",
+    "stars": 7534,
+    "forks": 1673
+  },
+  {
+    "name": "examples",
+    "stars": 3979,
+    "forks": 1338
+  },
+  {
+    "name": "swr",
+    "stars": 31819,
+    "forks": 1277
+  },
+  {
+    "name": "og-image",
+    "stars": 4053,
+    "forks": 1273
+  },
+  {
+    "name": "pkg",
+    "stars": 24403,
+    "forks": 1048
+  },
+  {
+    "name": "serve",
+    "stars": 9692,
+    "forks": 695
+  },
+  {
+    "name": "micro",
+    "stars": 10612,
+    "forks": 454
+  },
+  {
+    "name": "virtual-event-starter-kit",
+    "stars": 2169,
+    "forks": 439
+  },
+  {
+    "name": "hazel",
+    "stars": 2939,
+    "forks": 398
+  },
+  {
+    "name": "swr-site",
+    "stars": 500,
+    "forks": 358
+  },
+  {
+    "name": "next-plugins",
+    "stars": 2672,
+    "forks": 321
+  },
+  {
+    "name": "ncc",
+    "stars": 9657,
+    "forks": 300
+  },
+  {
+    "name": "ms",
+    "stars": 5334,
+    "forks": 281
+  },
+  {
+    "name": "nextjs-portfolio-starter",
+    "stars": 716,
+    "forks": 274
+  },
+  {
+    "name": "styled-jsx",
+    "stars": 7778,
+    "forks": 265
+  },
+  {
+    "name": "nextgram",
+    "stars": 993,
+    "forks": 227
+  },
+  {
+    "name": "pkg-fetch",
+    "stars": 454,
+    "forks": 213
+  },
+  {
+    "name": "hyper-site",
+    "stars": 456,
+    "forks": 199
+  },
+  {
+    "name": "next-react-server-components",
+    "stars": 992,
+    "forks": 162
+  },
+  {
+    "name": "nft",
+    "stars": 1481,
+    "forks": 157
+  },
+  {
+    "name": "hyperpower",
+    "stars": 634,
+    "forks": 127
+  },
+  {
+    "name": "release",
+    "stars": 3581,
+    "forks": 115
+  },
+  {
+    "name": "serve-handler",
+    "stars": 601,
+    "forks": 96
+  },
+  {
+    "name": "avatar",
+    "stars": 1291,
+    "forks": 88
+  },
+  {
+    "name": "vrs",
+    "stars": 526,
+    "forks": 88
+  },
+  {
+    "name": "server-components-notes-demo",
+    "stars": 746,
+    "forks": 85
+  },
+  {
+    "name": "spr-landing",
+    "stars": 447,
+    "forks": 82
+  },
+  {
+    "name": "static-fun",
+    "stars": 650,
+    "forks": 80
+  },
+  {
+    "name": "micro-dev",
+    "stars": 708,
+    "forks": 77
+  },
+  {
+    "name": "async-retry",
+    "stars": 1887,
+    "forks": 57
+  },
+  {
+    "name": "arg",
+    "stars": 1286,
+    "forks": 55
+  },
+  {
+    "name": "hyperyellow",
+    "stars": 93,
+    "forks": 43
+  },
+  {
+    "name": "reactions",
+    "stars": 313,
+    "forks": 43
+  },
+  {
+    "name": "fun",
+    "stars": 911,
+    "forks": 39
+  },
+  {
+    "name": "title",
+    "stars": 601,
+    "forks": 36
+  },
+  {
+    "name": "webpack-asset-relocator-loader",
+    "stars": 105,
+    "forks": 33
+  },
+  {
+    "name": "async-sema",
+    "stars": 645,
+    "forks": 31
+  },
+  {
+    "name": "zsh-theme",
+    "stars": 189,
+    "forks": 30
+  },
+  {
+    "name": "cosmosdb-server",
+    "stars": 178,
+    "forks": 30
+  },
+  {
+    "name": "react-keyframes",
+    "stars": 622,
+    "forks": 29
+  },
+  {
+    "name": "install-node",
+    "stars": 143,
+    "forks": 29
+  },
+  {
+    "name": "preview-mode-demo",
+    "stars": 121,
+    "forks": 28
+  },
+  {
+    "name": "nextjs-discord-bot",
+    "stars": 114,
+    "forks": 28
+  },
+  {
+    "name": "schemas",
+    "stars": 86,
+    "forks": 27
+  },
+  {
+    "name": "email-prompt",
+    "stars": 276,
+    "forks": 26
+  },
+  {
+    "name": "fetch",
+    "stars": 573,
+    "forks": 26
+  },
+  {
+    "name": "example-integration",
+    "stars": 49,
+    "forks": 24
+  },
+  {
+    "name": "title-site",
+    "stars": 133,
+    "forks": 22
+  },
+  {
+    "name": "commerce-framework",
+    "stars": 98,
+    "forks": 20
+  },
+  {
+    "name": "test-listen",
+    "stars": 156,
+    "forks": 19
+  },
+  {
+    "name": "err-sh",
+    "stars": 99,
+    "forks": 18
+  },
+  {
+    "name": "fetch-retry",
+    "stars": 224,
+    "forks": 18
+  },
+  {
+    "name": "update-check",
+    "stars": 166,
+    "forks": 16
+  },
+  {
+    "name": "resolve-node",
+    "stars": 33,
+    "forks": 14
+  },
+  {
+    "name": "uid-promise",
+    "stars": 256,
+    "forks": 13
+  },
+  {
+    "name": "stripe-integration",
+    "stars": 30,
+    "forks": 11
+  },
+  {
+    "name": "fetch-cached-dns",
+    "stars": 39,
+    "forks": 10
+  },
+  {
+    "name": "git-hooks",
+    "stars": 204,
+    "forks": 10
+  },
+  {
+    "name": "dns-cached-resolve",
+    "stars": 49,
+    "forks": 9
+  },
+  {
+    "name": "release-auth",
+    "stars": 24,
+    "forks": 8
+  },
+  {
+    "name": "cosmosdb-query",
+    "stars": 19,
+    "forks": 8
+  },
+  {
+    "name": "xterm.js",
+    "stars": 30,
+    "forks": 8
+  },
+  {
+    "name": "actions",
+    "stars": 15,
+    "forks": 8
+  },
+  {
+    "name": "go-bridge",
+    "stars": 22,
+    "forks": 7
+  },
+  {
+    "name": "community",
+    "stars": 112,
+    "forks": 6
+  },
+  {
+    "name": "algolite",
+    "stars": 10,
+    "forks": 5
+  },
+  {
+    "name": "redis-semaphore",
+    "stars": 10,
+    "forks": 4
+  },
+  {
+    "name": "rcurl",
+    "stars": 26,
+    "forks": 4
+  },
+  {
+    "name": "wait-for",
+    "stars": 49,
+    "forks": 4
+  },
+  {
+    "name": "rollup-plugin-commonjs",
+    "stars": 7,
+    "forks": 4
+  },
+  {
+    "name": "SyslogPro",
+    "stars": 13,
+    "forks": 4
+  },
+  {
+    "name": "remark-capitalize",
+    "stars": 29,
+    "forks": 3
+  },
+  {
+    "name": "xopt",
+    "stars": 7,
+    "forks": 3
+  },
+  {
+    "name": "next-codemod",
+    "stars": 66,
+    "forks": 3
+  },
+  {
+    "name": "jsonpath",
+    "stars": 13,
+    "forks": 3
+  },
+  {
+    "name": "react-jsx-parser",
+    "stars": 17,
+    "forks": 3
+  },
+  {
+    "name": "response",
+    "stars": 10,
+    "forks": 3
+  },
+  {
+    "name": "busted",
+    "stars": 6,
+    "forks": 3
+  },
+  {
+    "name": "sqs-consumer",
+    "stars": 12,
+    "forks": 3
+  },
+  {
+    "name": "gatsby-plugin-vercel",
+    "stars": 22,
+    "forks": 3
+  },
+  {
+    "name": "json-schema-to-ts",
+    "stars": 13,
+    "forks": 3
+  },
+  {
+    "name": "react-maskedinput",
+    "stars": 15,
+    "forks": 2
+  },
+  {
+    "name": "lua-aws",
+    "stars": 11,
+    "forks": 2
+  },
+  {
+    "name": "async-listen",
+    "stars": 50,
+    "forks": 2
+  },
+  {
+    "name": "tracing-js",
+    "stars": 46,
+    "forks": 2
+  },
+  {
+    "name": "lua-resty-template",
+    "stars": 7,
+    "forks": 2
+  },
+  {
+    "name": "terraform-aws-eks",
+    "stars": 6,
+    "forks": 2
+  },
+  {
+    "name": "amazon-kinesis-client-nodejs",
+    "stars": 7,
+    "forks": 2
+  },
+  {
+    "name": "lua-bcrypt",
+    "stars": 6,
+    "forks": 2
+  },
+  {
+    "name": "vscode-material-icon-theme",
+    "stars": 11,
+    "forks": 2
+  },
+  {
+    "name": "sqsmv",
+    "stars": 13,
+    "forks": 2
+  },
+  {
+    "name": "cla",
+    "stars": 9,
+    "forks": 2
+  },
+  {
+    "name": "clabot-config",
+    "stars": 6,
+    "forks": 2
+  },
+  {
+    "name": "has-changed-path",
+    "stars": 11,
+    "forks": 2
+  }
+]

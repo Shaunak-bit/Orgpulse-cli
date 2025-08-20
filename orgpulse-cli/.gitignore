@@ -1,0 +1,9 @@
+node_modules/
+.env
+checkpoint.json
+repos.csv
+report.csv
+vercel.json
+vercel-repos.csv
+vercel-analysis.csv
+vercel_repos.csv
